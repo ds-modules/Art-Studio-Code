@@ -1,1 +1,1 @@
-# ART-23AC-FA21
+# ART 23AC Fall 2021 Python Jupyter Notebooks
